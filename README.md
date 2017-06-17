@@ -1,5 +1,5 @@
 # MyApp
-## redditNews App
+## redditNews(ionic)
 - search keyword like angularjs,python,android
 - press header for update the news(pull-to-refresh is not compatible in my andro
 - infinite scroll down
@@ -7,7 +7,7 @@
 ### Results are as follows
 ![Alt text](reddit-news/preview.png)
 
-## notepad App
+## notepad(ionic)
 - support the CRUD opreation
 - reset the order by drag
 - store the data in localStorage
