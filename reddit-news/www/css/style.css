@@ -1,0 +1,17 @@
+/* Empty. Add your own CSS if you like */
+h2.story-title {
+    white-space: normal; 
+    height: 3.6em
+}
+
+.scrollToTop{
+  height: 48px;
+  width: 48px;
+  position: fixed;
+  bottom: 15%;
+  right: 5%; 
+  z-index: 1000;
+  display:block;
+  background:url('../img/back-to-top.png') no-repeat;
+  cursor:pointer;
+}
