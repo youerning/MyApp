@@ -5,12 +5,21 @@
 - infinite scroll down
 - the back-to-top button
 ### Results are as follows
-![Alt text](reddit-news/preview.png)
+![reddit-news](reddit-news/preview.png)
 
 ## notepad(ionic v1)
 - support the CRUD opreation
 - reset the order by drag
 - store the data in localStorage
 ### Results are as follows
-![Alt text](mynotepad/preview.png)
+![mynotepad](mynotepad/preview.png)
 
+## myops(ionic v1)
+- the mobile client of ops
+- check es status
+- plot data of es
+### Results are as follows
+![myops](myops/preview1.png)
+![myops](myops/preview2.png)
+![myops](myops/preview3.png)
+![myops](myops/preview4.png)

@@ -1,0 +1,14 @@
+<ion-view view-title="Home">
+    <ion-content>
+        <ion-list>
+            <ion-item
+             href="#/perf/{{ser.alias}}"
+             class="item-icon-right" ng-repeat="ser in serLis">
+            <i class="icon ion-arrow-right-b"></i>
+            <h2>{{ser.name}}</h2>
+            <p>{{ser.status}}</p>
+            </ion-item>
+        </ion-list>
+
+    </ion-content>
+</ion-view>

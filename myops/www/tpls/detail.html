@@ -1,0 +1,15 @@
+<ion-view view-title="Detail for {{name}}">
+    <ion-content>
+        <ion-list >
+            <ion-item>
+                <canvas id="bar" class="chart chart-bar"
+                  chart-data="data" chart-labels="labels"> chart-series="series"
+                </canvas>
+            </ion-item>
+            <ion-item ng-repeat="label in labels">
+                <h2>{{label}}</h2>
+                <p>{{data[$index]}}</p>
+            </ion-item>
+        </ion-list>
+    </ion-content>
+</ion-view>
